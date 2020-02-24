@@ -1,4 +1,4 @@
-# API Starter
+# Vince API Starter
 
 A simple _starter-kit_ for developing *DARRT*-style APIs. *DARRT* is an acronym which stands for Data, Actions, Resources, Representations, & Transitions. The *DARRT* library is used in the book "Design and Build Great Web APIs" (https://pragprog.com/book/maapis/design-and-build-great-web-apis).
 
